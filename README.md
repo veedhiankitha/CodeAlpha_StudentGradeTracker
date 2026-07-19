@@ -64,7 +64,7 @@ StudentGradeTracker/
 
 ## 👩‍💻 Author
 
-*Ankitha Veedhi*
+*Ankitha Nagalakshmi Veedhi*
 
 B.Tech Student  
 CodeAlpha Java Internship
