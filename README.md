@@ -30,38 +30,41 @@ java StudentGradeTracker
 4. Enter the student details when prompted.
 
 ## 📋 Sample Output
-
 Enter number of students: 3
 
 Student 1
-Enter Name: Rahul
-Enter Marks (0-100): 85
-
-Student 2
-Enter Name: Priya
+Enter Name: Ram
 Enter Marks (0-100): 92
 
+Student 2
+Enter Name: Sitha
+Enter Marks (0-100): 86
+
 Student 3
-Enter Name: Anil
-Enter Marks (0-100): 76
+Enter Name: Suma
+Enter Marks (0-100): 90
 
 ========== STUDENT REPORT ==========
 Student Name      Marks
 ------------------------------------
-Rahul             85
-Priya             92
-Anil              76
+Ram               92
+Sitha             86
+Suma              90
 ------------------------------------
-Average Marks : 84.33
-Highest Marks : 92
-Lowest Marks  : 76
-
+Average Marks : 89.33
+Highest Marks : 92 (Ram)
+Lowest Marks  : 86 (Sitha)
 ## 📁 Project Structure
+
 
 StudentGradeTracker/
 ├── StudentGradeTracker.java
 └── README.md
 
+
 ## 👩‍💻 Author
 
-Ankitha Veedhi
+*Ankitha Veedhi*
+
+B.Tech Student  
+CodeAlpha Java Internship
